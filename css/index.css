@@ -208,7 +208,7 @@ ul li:hover{
     justify-self: center;
     display: flex;
     flex-direction: column;
-    border-radius: 10px;
+    border-radius: 20px;
     transition: 0.2s ease-in-out;
     padding: 5px;
     gap: 8px;
