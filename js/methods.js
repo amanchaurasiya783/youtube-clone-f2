@@ -1,5 +1,5 @@
-// const apiKey = `AIzaSyDlqhUs8Ca-xzsoGjDUPKCDz0Y4tnc9Akg`;
-const apiKey = `AIzaSyDaWIxSagnbybE9x76FtZSxlA9JYWxKM8o`;
+const apiKey = `AIzaSyDlqhUs8Ca-xzsoGjDUPKCDz0Y4tnc9Akg`;
+// const apiKey = `AIzaSyDaWIxSagnbybE9x76FtZSxlA9JYWxKM8o`;
 const baseURL = `https://www.googleapis.com/youtube/v3`;
 
 // calculate the time of a video published
